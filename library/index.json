@@ -1,0 +1,111 @@
+[
+  {
+    "id": "NOC002",
+    "file": "images/NOC002_ING.png",
+    "faction": "Nocturna",
+    "asset_tier": "ING",
+    "status": "candidate",
+    "tags": [
+      "male",
+      "tailored suit",
+      "high collar",
+      "violet",
+      "ivory",
+      "vampire"
+    ],
+    "purpose": [
+      "style",
+      "materials",
+      "proportions"
+    ],
+    "source": "Anima Unity native preview, NOC002_ING; local reference image supplied separately.",
+    "notes": "Unity native preview; rest/setup pose. Not an approved art standard."
+  },
+  {
+    "id": "NOC003",
+    "file": "images/NOC003_ING.png",
+    "faction": "Nocturna",
+    "asset_tier": "ING",
+    "status": "candidate",
+    "tags": [
+      "female",
+      "vampire queen",
+      "crown",
+      "bat motifs",
+      "violet",
+      "crimson",
+      "slim silhouette"
+    ],
+    "purpose": [
+      "style",
+      "materials",
+      "proportions"
+    ],
+    "source": "Anima Unity native preview, NOC003_ING; local reference image supplied separately.",
+    "notes": "Unity native preview; rest/setup pose. Not an approved art standard."
+  },
+  {
+    "id": "NOC004",
+    "file": "images/NOC004_ING.png",
+    "faction": "Nocturna",
+    "asset_tier": "ING",
+    "status": "candidate",
+    "tags": [
+      "female",
+      "red shirt",
+      "dark leather trousers",
+      "glasses",
+      "firearm"
+    ],
+    "purpose": [
+      "style",
+      "materials",
+      "proportions"
+    ],
+    "source": "Anima Unity native preview, NOC004_ING; local reference image supplied separately.",
+    "notes": "Unity native preview; rest/setup pose. Not an approved art standard."
+  },
+  {
+    "id": "NOC005",
+    "file": "images/NOC005_ING.png",
+    "faction": "Nocturna",
+    "asset_tier": "ING",
+    "status": "candidate",
+    "tags": [
+      "male",
+      "broad silhouette",
+      "heavy gunner",
+      "charcoal coat",
+      "large firearm"
+    ],
+    "purpose": [
+      "style",
+      "materials",
+      "proportions"
+    ],
+    "source": "Anima Unity native preview, NOC005_ING; local reference image supplied separately.",
+    "notes": "Unity native preview; rest/setup pose. Not an approved art standard."
+  },
+  {
+    "id": "NOC006",
+    "file": "images/NOC006_ING.png",
+    "faction": "Nocturna",
+    "asset_tier": "ING",
+    "status": "candidate",
+    "tags": [
+      "female",
+      "gothic robes",
+      "ivory",
+      "black",
+      "red gloves",
+      "large bladed weapon"
+    ],
+    "purpose": [
+      "style",
+      "materials",
+      "proportions"
+    ],
+    "source": "Anima Unity native preview, NOC006_ING; local reference image supplied separately.",
+    "notes": "Unity native preview; rest/setup pose. Not an approved art standard."
+  }
+]

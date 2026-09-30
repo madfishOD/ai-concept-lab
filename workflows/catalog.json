@@ -1,0 +1,20 @@
+[
+  {
+    "id": "concept_generate",
+    "version": "0.1.0",
+    "name": "Новий концепт за референсами",
+    "description": "Create an original full-body character from a brief and 1–4 existing style references. SDXL + IP-Adapter. Variants are stochastic; separate briefs are needed for separate design directions.",
+    "required": ["prompt", "reference_ids"],
+    "template": "concept_generate.api.json",
+    "limitations": "Experimental baseline; no guaranteed style match or consistent multiple views."
+  },
+  {
+    "id": "concept_edit_masked",
+    "version": "0.1.0",
+    "name": "Редагування за строгою маскою",
+    "description": "Replace a region of an existing concept using an instruction, source image and separate grayscale PNG mask. White edits, black preserves. No automatic mask creation. References help the agent write the prompt; this image workflow conditions on source and mask only. Final source-resolution compositing is performed by the application.",
+    "required": ["prompt", "source_id", "mask_id"],
+    "template": "concept_edit_masked.api.json",
+    "limitations": "SDXL base latent inpainting baseline; large changes and faces may require more iterations. No unmasked edits."
+  }
+]

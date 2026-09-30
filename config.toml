@@ -1,0 +1,20 @@
+[services]
+comfy_url = "http://127.0.0.1:8188"
+ollama_url = "http://127.0.0.1:11434"
+agent_model = "qwen3.5:9b"
+
+[generation]
+checkpoint = "sd_xl_base_1.0.safetensors"
+ipadapter = "ip-adapter-plus_sdxl_vit-h.safetensors"
+clip_vision = "CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors"
+width = 832
+height = 1216
+steps = 28
+cfg = 6.0
+reference_weight = 0.55
+timeout_seconds = 1800
+
+[paths]
+comfy_root = 'D:\Work\StableDiffusion\ComfyUI'
+ollama_root = 'D:\Work\StableDiffusion\Ollama'
+ollama_models = 'D:\Work\StableDiffusion\OllamaModels'

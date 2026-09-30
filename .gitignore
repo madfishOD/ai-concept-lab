@@ -1,0 +1,50 @@
+# Local environments, generated outputs and machine-specific reports
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+*.log
+config.local.toml
+runtime-manifest.json
+comfy-requirements.lock.txt
+
+# References stay on the workstation, never in Git or Git LFS
+library/images/
+
+# Image/document source assets
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[wW][eE][bB][pP]
+*.[gG][iI][fF]
+*.[bB][mM][pP]
+*.[tT][gG][aA]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[eE][xX][rR]
+*.[hH][dD][rR]
+*.[pP][sS][dD]
+*.[pP][sS][bB]
+*.[sS][vV][gG]
+*.[iI][cC][oO]
+
+# Weights, 3D assets, installers and archives
+*.[sS][aA][fF][eE][tT][eE][nN][sS][oO][rR][sS]
+*.[gG][gG][uU][fF]
+*.[cC][kK][pP][tT]
+*.[pP][tT]
+*.[pP][tT][hH]
+*.[bB][iI][nN]
+*.[oO][nN][nN][xX]
+*.[fF][bB][xX]
+*.[oO][bB][jJ]
+*.[bB][lL][eE][nN][dD]
+*.[gG][lL][bB]
+*.[gG][lL][tT][fF]
+*.7z
+*.[zZ][iI][pP]
+*.[eE][xX][eE]
+*.[dD][lL][lL]
+*.[wW][hH][lL]
+*.tar
+*.gz

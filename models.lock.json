@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors",
+    "bytes": 6938078334,
+    "sha256": "31e35c80fc4829d14f90153f4c74cd59c90b779f6afe05a74cd6120b893f7e5b",
+    "relative_path": "checkpoints/sd_xl_base_1.0.safetensors"
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.safetensors",
+    "bytes": 847517512,
+    "sha256": "3f5062b8400c94b7159665b21ba5c62acdcd7682262743d7f2aefedef00e6581",
+    "relative_path": "ipadapter/ip-adapter-plus_sdxl_vit-h.safetensors"
+  },
+  {
+    "url": "https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors",
+    "bytes": 2528373448,
+    "sha256": "6ca9667da1ca9e0b0f75e46bb030f7e011f44f86cbfb8d5a36590fcd7507b030",
+    "relative_path": "clip_vision/CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors"
+  }
+]
